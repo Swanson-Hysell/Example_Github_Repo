@@ -1,2 +1,3 @@
-# Example_Github_Repo
-This example repository will be used for a tutorial to EPS first-year graduate students
+# Example Github Repository
+
+This example repository will be used for a tutorial to EPS first-year graduate students.
